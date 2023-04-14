@@ -1,0 +1,11 @@
+<!--index.wxml-->
+<view class="page">
+  <view class="title">单元测试说明</view>
+  <view class="content">
+    <view class="txt">1、小程序单元测试概括为三个大方向：[普通、Page、Component]</view>
+    <view class="txt">2、普通js，/__test__/base.test.js</view>
+    <view class="txt">3、Page，/page/index/index.test.js </view>
+    <view class="txt">4、Component，/page/component/unit-txt/index.test.js</view>
+    <view class="txt warn">注：开始使用前请阅读readme文件夹</view>
+  </view>
+</view>

@@ -1,0 +1,27 @@
+/**index.wxss**/
+.page{
+  padding:20rpx 40rpx;
+}
+
+.title{
+  text-align: center;
+  margin-bottom: 40rpx;
+  font-weight: bold;
+  font-size: 38rpx;
+}
+
+.content{
+  background-color: #cccccc79;
+  padding: 20rpx;
+  border-radius: 10rpx;
+}
+
+.content .txt{
+  margin-bottom: 20rpx;
+  color: #333333;
+  font-size: 30rpx;
+}
+
+.content .txt.warn{
+  color: #be2a2a;
+}

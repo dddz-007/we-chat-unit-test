@@ -1,0 +1,2 @@
+<!--pages/component/unit-txt/index.wxml-->
+<view class="index">{{txt}}</view>

@@ -1,0 +1,4 @@
+/* pages/component/unit-txt/index.wxss */
+.index {
+  color: green;
+}
